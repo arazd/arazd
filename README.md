@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Ph.D. student at the University of Toronto and Vector Institute‬. I work on Natural Language Processing as part of UW NLP, with a focus on Question Answering, Multilingual NLP and knowledge representations. Before UofT, I obtained my B.Sc. degree in Applied Mathematics from Taras Shenchenko National University of Kyiv.
+I am Anastasia, a Ph.D. student at the University of Toronto 🇨🇦 🍁 and Vector Institute‬. I work on Representation Learning, Natural Language Processing and Biomedical ML. Before UofT, I obtained my B.Sc. degree in Applied Mathematics from Taras Shenchenko National University of Kyiv.
 
 ### Contact
 
