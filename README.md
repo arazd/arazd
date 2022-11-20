@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a Ph.D. student at the University of Toronto and Vector Institute‬. I work on Natural Language Processing as part of UW NLP, with a focus on Question Answering, Multilingual NLP and knowledge representations. Before UofT, I obtained my B.Sc. degree in Applied Mathematics from Taras Shenchenko National University of Kyiv.
+
+### Contact
+
+I'm happy to get in touch! 
+
+* Email: anastasia.razdaibiedina[at]mail.utoronto.ca
+* Personal website: https://arazd.github.io
+
 <!--
 **arazd/arazd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
