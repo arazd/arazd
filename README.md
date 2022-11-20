@@ -6,7 +6,7 @@ I am Anastasia, a Ph.D. student at the *University of Toronto* and *Vector Insti
 
 I'm happy to get in touch! 
 
-* Email: anastasia.razdaibiedina[at]mail.utoronto.ca
+* Email: anastasia.razdaibiedina [at] mail.utoronto.ca
 * Personal website: https://arazd.github.io
 
 <!--
