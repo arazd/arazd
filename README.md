@@ -8,6 +8,7 @@ I'm happy to get in touch!
 
 * Email: anastasia.razdaibiedina [at] mail.utoronto.ca
 * Personal website: https://arazd.github.io
+* Twitter: @razdaibi
 
 <!--
 **arazd/arazd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
